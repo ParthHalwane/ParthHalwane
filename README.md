@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various Full Stack Projects.<br>👯 I’m looking to collaborate on Scalable microservices-based platforms.<br>🌱 I’m currently learning<br>💬 Ask me about Full Stack, Scalability and Optimisation.<br>⚡ Fun fact - I enjoy combining tech and creativity—whether it's coding, designing systems, or brainstorming innovative ideas. 
+🔭 I’m currently working on various Full Stack Projects.<br>👯 I’m looking to collaborate on Scalable microservices-based platforms.<br>🌱 I’m currently learning Full Stack Java Development.<br>💬 Ask me about Full Stack, Scalability and Optimisation.<br>⚡ Fun fact - I enjoy combining tech and creativity—whether it's coding, designing systems, or brainstorming innovative ideas. 
 
 
 ## 🌐 Socials:
