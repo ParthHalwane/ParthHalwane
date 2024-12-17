@@ -10,11 +10,14 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthhalwane&theme=neon&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhalwane&theme=neon&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parthhalwane&theme=neon&hide_border=false&include_all_commits=true&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthhalwane&theme=neon&hide_border=false" />
 </p>
 
+<hr>
+
 ### ✍️ Random Dev Quote
+<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
