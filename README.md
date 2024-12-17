@@ -1,5 +1,13 @@
-### 💫 About Me:
-🔭 I’m currently working on various Full Stack Projects.<br>👯 I’m looking to collaborate on Scalable microservices-based platforms.<br>🌱 I’m currently learning Full Stack Java Development.<br>💬 Ask me about Full Stack, Scalability and Optimisation.<br>
+<!-- Profile banner GIF or SVG -->
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="Banner" width="1000" height="480"/>
+</p>
+
+<h2 align="center">Hi, I'm Lokesh Kad 👋</h2>
+
+<p align="center">
+  A passionate developer focused on AI/ML, web development, and cybersecurity.
+</p>
 
 <hr>
 
