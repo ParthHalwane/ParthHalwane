@@ -1,13 +1,21 @@
-<!-- Profile banner GIF or SVG -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" alt="Banner" width="1000" height="480"/>
+  <img 
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" 
+    alt="Banner" 
+    width="1000" 
+    height="480"
+  />
 </p>
 
-<h2 align="center">Hi, I'm Lokesh Kad 👋</h2>
+<!-- Greeting -->
+<h2 align="center">Hi, I'm Parth Halwane 👋</h2>
 
+<!-- About Me -->
 <p align="center">
-  A passionate developer focused on AI/ML, web development, and cybersecurity.
+  A passionate developer specializing in Artificial Intelligence, Machine Learning, and Full Stack Web Development.
 </p>
+
 
 <hr>
 
