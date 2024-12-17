@@ -3,7 +3,7 @@
   <img 
     src="https://images.pexels.com/photos/270557/pexels-photo-270557.jpeg?auto=compress&cs=tinysrgb&w=600" 
     alt="Banner" 
-    width="1000" 
+    width="100%" 
     height="480"
   />
 </p>
